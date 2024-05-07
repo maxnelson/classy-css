@@ -7,7 +7,7 @@ export default {
   },
   plugins: [
     scss({
-      output: "dist/bundle.css",
+      outputStyle: "compressed",
     }),
   ],
 };
