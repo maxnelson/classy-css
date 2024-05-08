@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^6.0.0",
     "sass": "^1.76.0"
   }
 }
