@@ -1,8 +1,11 @@
-.fill-000 {
+.fill-black {
   fill: #000;
 }
-.fill-fff {
+.fill-white {
   fill: #fff;
+}
+.fill-none {
+  fill: none;
 }
 .fill-gray-10 {
   fill: var(--gray-10);

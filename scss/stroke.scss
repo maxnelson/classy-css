@@ -1,8 +1,11 @@
-.stroke-000 {
+.stroke-black {
   stroke: #000;
 }
-.stroke-fff {
+.stroke-white {
   stroke: #fff;
+}
+.stroke-none {
+  stroke: none;
 }
 .stroke-gray-10 {
   stroke: var(--gray-10);
